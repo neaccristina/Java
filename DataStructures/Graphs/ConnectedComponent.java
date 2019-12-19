@@ -12,7 +12,7 @@ import java.util.Set;
 class Graph<E extends Comparable<E>> {
 
     class Node {
-        E name;
+        E namex;
 
         public Node(E name) {
             this.name = name;
